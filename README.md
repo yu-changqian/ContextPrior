@@ -1,4 +1,4 @@
-# Context Prior for Scene Segmentation
+# Context Prior for Scene Segmentation (CVPR2020)
 Implementation for "Context Prior for Scene Segmentation"
 
 ## News
